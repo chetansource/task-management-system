@@ -6,7 +6,8 @@
 
     Code Generation:
 
-        DeepSeek and ChatGPT were used to generate boilerplate code for both the backend and frontend, including API endpoints, database schemas, and React components.
+        DeepSeek and ChatGPT were used to generate boilerplate code for both the backend and frontend, including API endpoints, 
+        database schemas, and React components and Bolt is used for frontend code completetion.
 
         Example: The initial setup for Express routes, Mongoose models, and TypeScript interfaces was generated using AI.
 
