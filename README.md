@@ -1,5 +1,34 @@
 # task-management-system
 
+## How AI Tools Were Used
+
+### AI tools played a significant role in accelerating the development process of this project. Here’s how they were utilized:
+
+    Code Generation:
+
+        DeepSeek and ChatGPT were used to generate boilerplate code for both the backend and frontend, including API endpoints, database schemas, and React components.
+
+        Example: The initial setup for Express routes, Mongoose models, and TypeScript interfaces was generated using AI.
+
+### Documentation:
+
+    AI tools assisted in writing clear and concise documentation, including this README file and inline code comments.
+
+    Example: Generating API usage examples and deployment instructions.
+
+### Learning and Best Practices:
+
+    AI provided insights into best practices for structuring the project, such as separating concerns into controllers, services, and models.
+
+    Example: Recommendations for modularizing the backend code and using Zod for validation.
+
+### Frontend Styling:
+
+    ChatGPT suggested modern UI/UX principles and helped integrate Shadcn UI components for a responsive and user-friendly design.
+
+### By leveraging these AI tools, the development process was significantly faster, more efficient, and less error-prone.
+
+
 ## Backend Documentation
 Overview
 
