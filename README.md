@@ -38,8 +38,37 @@ cd backend
 npm install
 
 ### 3.Set Up Environment Variables
-
 ### 4. Run the Server
+```sh
+npm run dev
+```
+
+
+## Frontend Documentation
+Overview
+
+## 🚀 Features
+- Create, edit, and delete tasks
+- Task management dashboard
+- Interactive UI with ShadCN components
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+### 2. Install Dependencies
+
+Make sure you have Node.js (>=18.x) installed. Then, install dependencies using:
+
+```sh
+npm install
+```
+
+### 3. Set Up Environment Variables
+
+Create a .env file in the root of the frontend folder and add your API base URL:
+
+### 4. Start the Development Server
 ```sh
 npm run dev
 ```
